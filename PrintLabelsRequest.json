@@ -1,0 +1,40 @@
+{"ParcelList":[{
+  "ClientNumber": "C_L_I_N_E_T_N_U_M_B_E_R",
+  "ClientReference": "TEST PARCEL",
+  "CODAmount": "0",
+  "CODReference": "COD REFERENCE",
+  "Content": "CONTENT",
+  "Count": 1,
+  "DeliveryAddress": {
+    "City": "Alsónémedi",
+    "ContactEmail": "something@anything.hu",
+    "ContactName": "Contact Name",
+    "ContactPhone": "+36701234567",
+    "CountryIsoCode": "HU",
+    "HouseNumber": "2",
+    "Name": "Pickup Address",
+    "Street": "Európa u.",
+    "ZipCode": "2351",
+	"HouseNumberInfo": "/b"
+  },
+  "PickupAddress": {
+    "City": "Alsónémedi",
+    "ContactEmail": "something@anything.hu",
+    "ContactName": "Contact Name",
+    "ContactPhone": "+36701234567",
+    "CountryIsoCode": "HU",
+    "HouseNumber": "2",
+    "Name": "Delivery Address",
+    "Street": "Európa u.",
+    "ZipCode": "2351",
+	"HouseNumberInfo": "/a"
+  },
+  "PickupDate": "\/Date(1576367999000)\/",
+  "ServiceList": [{ 
+			"Code":"PSD",
+			"PSDParameter":{ 
+				"StringValue":"2351-CSOMAGPONT"
+			}
+        }
+	  ]
+}],"Password":"P_A_S_S_W_O_R_D","Username":"U_S_E_R_N_A_M_E"}
